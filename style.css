@@ -96,7 +96,94 @@
 }
 
 
+
+
+
+.katudou {
+
+}
+
+.katudou h2 {
+  font-size: 40px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(55, 55, 55);
+  padding: 20px 0;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.katudou_contents {
+
+}
+
+.katudou_image {
+  width: 400px;
+}
+
+.blender {
+  display: flex;
+}
+
+.blender p {
+  font-size: 40px;
+  padding-top: 75px;
+  padding-left: 50px;
+}
+
+.blender img {
+  padding-left: 240px;
+  height: 300px;
+}
+
+.printer {
+  display: flex;
+}
+
+.printer p {
+  font-size: 40px;
+  padding-top: 75px;
+  padding-left: 50px;
+}
+
+.printer img {
+  padding-left: 200px;
+  padding-top: 20px;
+  height: 300px;
+}
+
+.web {
+  display: flex;
+}
+
+.web p {
+  font-size: 40px;
+  padding-top: 75px;
+  padding-left: 50px;
+}
+
+.web img {
+  padding-left: 240px;
+  padding-top: 20px;
+  height: 300px;
+}
+
+.shikaku {
+  display: flex;
+}
+
+.shikaku p {
+  font-size: 40px;
+  padding: 75px 0 0 50px;
+}
+
+.shikaku img {
+  padding-left: 240px;
+  padding-top: 30px;
+  height: 300px;
+}
+
 footer {
   margin-top: 500px;
   margin-bottom: 1000px;
 }
+
